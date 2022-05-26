@@ -693,17 +693,17 @@ li {
     fill: var(--white-color);
 }
 
-.flex-icon .fodt {
+.flex-icon .foter {
     border-radius: 50%;
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.icon-team.first-child.fodt {
+.icon-team.first-child.foter {
     margin-left: 0;
 }
 
-.flex-icon .fodt:hover,
-.flex-icon .fodt:hover {
+.flex-icon .foter:hover,
+.flex-icon .foter:hover {
     background-color: var(--accent-color);
     border-radius: 50%;
     cursor: pointer;
