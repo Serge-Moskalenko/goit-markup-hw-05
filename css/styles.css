@@ -48,7 +48,7 @@ button {
     margin-right: 93px;
 }
 
-.logo.footer {
+.logo.in-footer {
     display: inline-block;
     color: var(--white-color);
     margin-bottom: 20px;
@@ -520,7 +520,7 @@ footer {
     /* outline: 2px solid #000; */
 }
 
-.container.footer {
+.container.in-footer {
     padding-top: 60px;
     padding-bottom: 60px;
 }
@@ -657,7 +657,7 @@ li {
     margin-right: 0;
 }
 
-.footer.title {
+.in-footer.title {
     font-family: Roboto;
     font-size: 14px;
     font-weight: 700;
@@ -689,21 +689,21 @@ li {
     margin-top: 12px;
 }
 
-.instagram.footer {
+.instagram.in-footer {
     fill: var(--white-color);
 }
 
-.flex-icon .foter {
+.flex-icon .in-foter {
     border-radius: 50%;
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.icon-team.first-child.foter {
+.icon-team.first-child.in-foter {
     margin-left: 0;
 }
 
-.flex-icon .foter:hover,
-.flex-icon .foter:hover {
+.flex-icon .in-foter:hover,
+.flex-icon .in-foter:hover {
     background-color: var(--accent-color);
     border-radius: 50%;
     cursor: pointer;
